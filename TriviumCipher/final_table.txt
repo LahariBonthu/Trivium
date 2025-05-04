@@ -1,0 +1,17 @@
+TEST NAME                      P-VALUE    STATUS    
+------------------------------------------------------------
+Frequency                      0.739918   PASS      
+BlockFrequency                 0.350485   PASS      
+CumulativeSums                 0.122325   PASS            
+Runs                           0.534146   PASS      
+LongestRun                     0.534146   PASS      
+Rank                           0.534146   PASS      
+FFT                            0.350485   PASS      
+NonOverlappingTemplate         0.911413   PASS      
+OverlappingTemplate            0.213309   PASS      
+Universal                      0.739918   PASS      
+ApproximateEntropy             0.534146   PASS 
+RandomExcursions                  --       --
+RandomExcursionsVariant           --       --
+Serial                         0.534146   PASS           
+LinearComplexity               0.911413   PASS      
